@@ -5,7 +5,7 @@ author: Nurvirta Monarizqa
 share: true
 modified: 2021-01-12T16:00:57-04:00
 image:
-  feature: head2.jpg
+  feature: head2.jpeg
 ---
 
 Hello, my name is Nurvirta Monarizqa, but simply call me Mona.
