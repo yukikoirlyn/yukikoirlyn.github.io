@@ -1,14 +1,14 @@
 ---
 layout: article
 title: About Me
-author: Yukiko Irliyani
+author: Nurvirta Monarizqa
 share: true
-modified: 2023-01-22T10:14:57-04:00
+modified: 2021-01-12T16:00:57-04:00
 image:
-  feature: bio-photo.jpg
+    feature: head2.jpg
 ---
 
-Hello, my name is Yukiko Irliyani.
+Hello, my name is Nurvirta Monarizqa, but simply call me Mona. 
 
 I am a Data Scientist, working for [Microsoft](https://twitter.com/msftsecurity) and currently residing in Bellevue, across the lake from Seattle. An alumna of [Urban Science + Progress, New York University](https://twitter.com/NYU_CUSP)
 
