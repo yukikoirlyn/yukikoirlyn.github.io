@@ -2,7 +2,7 @@
 layout: article
 title: "Permias New York City Website"
 share: true
-modified: 2023-01-12T14:18:57-04:00
+modified: 2023-01-12
 image:
     teaser: permiasweb.JPG
 categories: portofolio
