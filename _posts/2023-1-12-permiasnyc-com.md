@@ -1,17 +1,17 @@
 ---
 layout: article
-title: "Permias New York City Website"
+title: "Cyber Attack Challenges in Era Digital"
 share: true
-modified: 2023-01-12
+modified: 2022-08-05
 image:
-    teaser: permiasweb.JPG
+    teaser: cyberattack.png
 categories: portofolio
 ---
 
-I developed this website for Permias NYC, an Indonesian Student Association in New York City. I used HTML, CSS, PHP, JavaScript, and then convert all the pages into a single Wordpress Theme, for easier content management.
+I developed this website for Hackaton by Ministry of Communication and Information Technology, Indonesia. I used HTML, CSS, python, and then convert all the pages into a single Streamlit page, for easier content management.
 
-Demo here: [permiasnyc.com](http://permiasnyc.com)
-| [Github](http://github.com/nmonarizqa/permias-web)
+Demo here: [Hackaton : Women in Tech](https://yukikoirlyn-wt-group-4-women-tech-uitps3.streamlit.app/)
+| [Github](https://github.com/yukikoirlyn/wt-group-4)
 
 <figure class="half">
 	<img src="{{ site.url }}/images/permiasss.png">
