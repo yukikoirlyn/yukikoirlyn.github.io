@@ -4,7 +4,7 @@ title: "Policy Efficiency: Booster is a Mobility Requirement"
 share: true
 modified: 2022-09-05T18:32:57-07:00
 image:
-    teaser: traffic-thumb.jpg
+    teaser: newplot.png
 categories: portofolio
 ---
 
