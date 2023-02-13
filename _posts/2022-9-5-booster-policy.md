@@ -8,16 +8,11 @@ image:
 categories: portofolio
 ---
 
-Jakarta is one of the cities with the worst traffic. You might find yourself hours in a car on your way back home even though it's only a 10 miles trip (16 km).
+Effective booster vaccination is a travel requirement as of July 17, 2022. The requirements for booster vaccines are regulated in Circular Letter No. 70 of 2022 concerning instructions for the Implementation of Domestic Travel (PPDN) by air, land and sea transportation during the COVID-2019 pandemic.
 
-To visualize the condition, I created an animation of the traffic during the "Independence Week". I obtained the data through HERE Maps API and visualize the data with Folium package (based on Leaflet.js) in python.
+Does the booster vaccine policy not affect people's mobility? Meanwhile, if the logic of each mobility growth means that it can affect economic growth? Or is it possible that the current public awareness is very high for vaccines?
 
-<iframe width="560" height="350" src="https://www.youtube.com/embed/ddA2lXw6qPU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-I posted this on Twitter as well and it went viral.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="in" dir="ltr">Lalu lintas Jakarta selama seminggu, dalam animasi. <a href="https://t.co/hA1xwYjKUU">pic.twitter.com/hA1xwYjKUU</a></p>&mdash; Mona (@nmonarizqa) <a href="https://twitter.com/nmonarizqa/status/1034855516495724544?ref_src=twsrc%5Etfw">August 29, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+To visualize the condition, I created a web view that analyzes several points: government policies and community mobility, Heat Maps of changes in community mobility by sector, the correlation between community mobility and Gross Domestic Product, and the correlation between vaccination increases and community mobility. I obtained the data through GOOGLE Community Mobility Report, Produk Domestik Bruto (PDB) menurut Lapangan Usaha by Badan Pusat Statistika (BPS), Total Vaccination by Our World in Data and visualize the data with Streamlit in python.
 
 
-Behind the scene article [here](https://medium.com/@nmonarizqa/lalu-lintas-jakarta-di-pekan-kemerdekaan-2f0d67c23240) (in Bahasa) and you can find the code [here](https://github.com/nmonarizqa/weekly-viz/tree/master/jakarta-weekly-traffic)
+Behind the scene article [here](https://yukikoirlyn-capstone-project-main-jc2c0u.streamlit.app/) (in Bahasa) and you can find the code [here](https://github.com/yukikoirlyn/capstone-project)
